@@ -39,13 +39,13 @@
         <td>5</td>
         <td>Nootsara Tomkom</td>
         <td>Noot</td>
-        <td><img src="https://images.app.goo.gl/GEx4rtnqij4sbDFw8" width="100px"></td>
+        <td><img src="https://images.app.goo.gl/6TYsfBvHYfoz2VVm9" width="100px"></td>
         <td><a href="https://twitter.com/volleyballworld?s=21">twitter</a></td>
         <tr>
         <td>6</td>
         <td>Kim yeonkoung</td>
         <td>Yeonkoung</td>
-        <td><img src="https://images.app.goo.gl/XZPxq9xEHdDq2kjQA" width="100px"></td>
+        <td><img src="https://images.app.goo.gl/JEpKcyd8jqXAjA7z7" width="100px"></td>
         <td><a href="https://twitter.com/kimyk10?s=21">twitter</a></td>
       </tr>
     </table>
