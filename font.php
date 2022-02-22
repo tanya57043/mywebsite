@@ -6,7 +6,7 @@
   <style>
     @font-face{
       font-family: myFont1;
-      src: url()
+      src: url(MiPancake.woff)
     }
     @font-face{
       font-family: myFont2;
